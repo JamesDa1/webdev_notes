@@ -2,4 +2,5 @@
 
 Notes for HTML, CSS and JS concepts
 - Table of Content:
-Carousel: How to create an image slide show.
+  - Carousel [https://github.com/JamesDa1/webdev_notes/tree/main/carouselle] 
+    - How to create an image slide show.
